@@ -1,0 +1,48 @@
+
+h1{
+  font-family: "Caveat", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+.navigation{ 
+    background-color: #FF6969;
+}
+
+.navigation .nav-link {
+    color: #FFF5E0 !important;
+}
+
+.navigation .nav-link:hover {
+    color: #FFD700 !important; /* Optional hover effect */
+}
+
+.header{
+    background-color: #FFF5E0;
+}
+
+#title{
+    color:#FF6969;
+}
+
+.AboutMe{
+    color: #FF6969;
+    background-color: white;
+}
+
+.project{
+    color: #FF6969;
+    background-color: white;  
+}
+
+.contact, .footer{
+    padding-top: 50px;
+    color: #FFF5E0;
+    background-color: #FF6969;
+}
+
+.contact p{
+    text-align: right;
+}
